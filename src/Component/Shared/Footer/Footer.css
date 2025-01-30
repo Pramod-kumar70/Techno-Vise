@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.AdjustLiItem li{
+    list-style-type: none;
+    margin-block: 15px;
+    font-size: 17px;
+    
+}
+
+.TopCategory{
+    font-weight: 800;
+}
+.FooterIcons{
+    font-size: 40px !important;
+    margin: 10px;
+}
+.makebold{
+    font-weight: 800;
+}

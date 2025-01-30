@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.AdjustLI li{
+    text-align: start;
+    font-size: 18px;
+    margin-inline: 20px;
+    margin-block: 20px;
+    align-items: center;
+
+    
+}
+.AdjustLI img{
+    margin-inline: 10px;
+}
+.TextDeco{
+    text-decoration:line-through;
+    text-decoration-color: yellow;
+    
+}
